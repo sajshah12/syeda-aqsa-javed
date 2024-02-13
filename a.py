@@ -1,2 +1,4 @@
 i = "my name is aqsa"
-print(i)
+e = 1234
+print(i,e)
+
